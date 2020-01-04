@@ -1,10 +1,20 @@
 {
-    "influxdb": {
-        "host": "localhost",
-        "port": 8086,
-        "username": "grafana",
-        "password": "grafana",
-        "database": "metrics"
+    "sensors": {
+        "influxdb": {
+            "host": "localhost",
+            "port": 8086,
+            "username": "grafana",
+            "password": "grafana",
+            "database": "metrics"
+        },
+        "ignored_sensors": []
     },
-    "ignored_sensors": []
+    "weather": {
+        "api-key": "",
+        "city": "Lyon",
+        "country": "fr",
+        "lang": "fr",
+        "units": "metric",
+        "count": 7
+    }
 }

@@ -63,7 +63,6 @@
   .date {
     font-size: 2.5em;
     letter-spacing: 0.1em;
-    padding-bottom: .6em;
   }
 
   .red {
