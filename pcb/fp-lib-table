@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name piprojector-1)(type KiCad)(uri ${KIPRJMOD}/templates/piprojector-1.3)(options "")(descr ""))
+)

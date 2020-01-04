@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Raspberry_Pi_Zero_W-cache)(type Legacy)(uri "${KIPRJMOD}/templates/raspberry-pi-zero/Kicad Templates/Raspberry Pi Zero W/Raspberry Pi Zero W-cache.lib")(options "")(descr ""))
+)

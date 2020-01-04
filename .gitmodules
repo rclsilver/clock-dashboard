@@ -1,0 +1,3 @@
+[submodule "pcb/templates/raspberry-pi-zero"]
+	path = pcb/templates/raspberry-pi-zero
+	url = https://github.com/AchimPieters/KiCad-Templates.git
