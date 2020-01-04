@@ -1,0 +1,10 @@
+{
+    "influxdb": {
+        "host": "localhost",
+        "port": 8086,
+        "username": "grafana",
+        "password": "grafana",
+        "database": "metrics"
+    },
+    "ignored_sensors": []
+}
